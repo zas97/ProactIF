@@ -1,7 +1,7 @@
 package fr.insalyon.dasi.proactif;
 
 
-// TODO : imports
+
 
 
 import javax.persistence.Entity;
